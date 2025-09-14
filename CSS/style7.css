@@ -1,0 +1,21 @@
+div{
+    background-color:orange;
+    height: 100px;
+    width: 200px;
+    margin:30px;
+    padding: 10px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 15px;
+}
+.div1{
+    box-shadow: 10px 10px 15px #eee;
+}
+.div2{
+    box-shadow: 5px 5px 10px inset #eee;
+}
+.div3{
+    box-shadow: 5px 5px 10px  fuchsia inset,  5px 5px 10px orange inset;
+}

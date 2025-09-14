@@ -1,0 +1,15 @@
+div{
+    background-color:white;
+    width: 500px;
+    height: 100px;
+    margin:50px;
+    padding: 10px;
+    font-size: 15px;
+    color: black;
+    text-align: left;
+    text-transform: capitalize;
+    border: 10px solid ;
+    border-image: url(../pizza.jpg ) 50;
+
+}
+

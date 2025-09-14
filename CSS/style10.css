@@ -1,0 +1,17 @@
+div{
+    font-size: 18px;
+    width: 200px;
+    height: 200px;
+    color: black;
+    text-align: left;
+    text-transform: capitalize;
+    border: 2px solid red;
+    padding: 15px;
+    margin: 50px;
+    font-weight: bold;
+}
+.div1{
+    box-shadow: 4px -3px 0px 0px blue,8px -5px 0px 0px white,12px -9px yellowgreen,16px -13px white,20px -16px brown;
+    
+    background-color: white;
+}

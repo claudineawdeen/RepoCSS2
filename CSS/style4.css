@@ -1,0 +1,29 @@
+div{
+    background-color:white;
+    height: 90px;
+    width: 180px;
+    margin:10px;
+}
+div p{
+    padding: 20px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+.div1{
+    border: 3px solid blue;
+}
+.div2{
+    outline: 3px solid red ;
+}
+.div3{
+    border: 3px solid blue;
+    outline: 3px dashed red ;
+}
+.div4{
+    border: 3px solid green;
+    outline: 3px solid orange ;
+    outline-offset: 5px ;
+}
+

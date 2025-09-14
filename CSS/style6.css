@@ -1,0 +1,10 @@
+div{
+    background-color:pink;
+    margin:30px;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+    border: 3px solid purple;
+}
+

@@ -1,0 +1,25 @@
+div{
+    background-color:white;
+    height: 100px;
+    width: 300px;
+    margin:20px;
+    border: 2px solid black;
+}
+div p{
+    padding: 2px;
+    font-size: 10px;
+    color: black;
+    text-align: left;
+}
+.div1{
+    overflow: visible;
+}
+.div2{
+    overflow: hidden;
+}
+.div3{
+    overflow: scroll;
+}
+.div4{
+    overflow: auto;
+}

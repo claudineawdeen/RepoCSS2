@@ -1,0 +1,21 @@
+div{
+    background-color:#3893af;
+    height: 135px;
+    width: 180px;
+    margin:15px;
+}
+div p{
+    padding: 50px;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+}
+.div1{
+  opacity: 0.75;
+}
+.div2{
+  opacity: 0.75;
+}
+.div3{
+  opacity: 0.25;
+}
